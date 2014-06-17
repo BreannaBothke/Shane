@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d60513e-3a33-4f20-8f0f-979e3fad95c8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logos/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont-0.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Shane.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/aim.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/amazon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/amazon_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/amazon_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/amazon_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/amazon_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/apple_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/apple_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/apple_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/apple_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/behance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/behance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/blogger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/blogger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/car.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/cargo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/delicious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/delicious_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/delicious_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/delicious_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/delicious_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/deviantart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/deviantart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/deviantart_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/deviantart_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/deviantart_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/deviantart_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/digg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/digg_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/digg_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/digg_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/digg_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/dopplr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/dribbble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/dribbble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/dribbble_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/dribbble_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/dribbble_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/dribbble_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/dropbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/ember.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/evernote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/evernote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/facebook_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/facebook_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/facebook_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/facebook_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fancybox_buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fancybox_loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/flickr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/flickr_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/flickr_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/flickr_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/flickr_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont-0.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/forrst.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/forrst.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/github.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/github.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/glyphicons-mini-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/glyphicons-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/glyphicons-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/glyphicons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/google.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/googleplus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/googleplus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/gowalla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/grid_grey.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/grooveshark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/heaven.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/html5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/parallax-slider/html5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/html5_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/html5_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/html5_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/html5_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/icloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/parallax-slider/imac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/parallax-slider/ipad-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/jolicloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/last-fm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/lastfm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/lastfm_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/lastfm_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/lastfm_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/lastfm_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/linkedin_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/linkedin_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/linkedin_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/linkedin_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/list/grey/list_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/list/grey/list_check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/list/grey/list_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/list/grey/list_cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/list/grey/list_minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/list/grey/list_plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/list/grey/list_square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/list/grey/list_star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/parallax-slider/mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/metacafe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/mixx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile_app1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/myspace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/myspace_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/myspace_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/myspace_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/myspace_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/netvibes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/newsvine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/orkut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/overlay-icon-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/overlay-icon-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/paypal_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/paypal_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/paypal_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/paypal_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/picasa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/picasa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/pinterest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/pintrest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/plurk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/poland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/posterous.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/reddit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/rss_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/rss_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/rss_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/rss_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/scroll-top-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/search-ico-alt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/skype_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/skype_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/skype_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/skype_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider-control-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider-control-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/slider1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/slider2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slider/slider3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/spotify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/stumbleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/stumbleupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/stumbleupon_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/stumbleupon_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team_member.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/technorati.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/testimonials-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/testimonials-left-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/testimonials-left-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/testimonials-right-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/testimonials-right-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/tumblr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/tumblr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/tumblr_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/tumblr_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/tumblr_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/tumblr_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/twitter_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/twitter_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/twitter_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/twitter_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/vimeo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/vimeo_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/vimeo_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/vimeo_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/vimeo_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/web_app1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/wordpress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/wordpress.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/xing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/yahoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/yahoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/yelp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/youtube_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/youtube_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_big/youtube_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social_small/youtube_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/zerply.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/social2/zootool.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/fancybox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome-ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons_set2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/isotope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.8.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.cslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.flot.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.flot.pie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.flot.resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.flot.stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.gmap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.imagesloaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.placeholder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/list-styles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/parallax-slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pricing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcodes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/social-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/social-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styleIE.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styleIE9.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/twitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="Shane.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Shane" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="717" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shane" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d60513e-3a33-4f20-8f0f-979e3fad95c8" name="Default" comment="" />
+      <created>1402963261553</created>
+      <updated>1402963261553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="717" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+</project>
+
