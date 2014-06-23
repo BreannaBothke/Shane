@@ -2,22 +2,281 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d60513e-3a33-4f20-8f0f-979e3fad95c8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/icons.html" afterPath="$PROJECT_DIR$/icons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/icons_set2.html" afterPath="$PROJECT_DIR$/icons_set2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/list-styles.html" afterPath="$PROJECT_DIR$/list-styles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio3.html" afterPath="$PROJECT_DIR$/portfolio3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio4.html" afterPath="$PROJECT_DIR$/portfolio4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/post.html" afterPath="$PROJECT_DIR$/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pricing.html" afterPath="$PROJECT_DIR$/pricing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.html" afterPath="$PROJECT_DIR$/project.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shortcodes.html" afterPath="$PROJECT_DIR$/shortcodes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/social-icons.html" afterPath="$PROJECT_DIR$/social-icons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typography.html" afterPath="$PROJECT_DIR$/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/img/parallax-slider/time_money_slider.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/partials/expansion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/partials/numbers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/partials/overview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/partials/work.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/frontend/partials/about.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/frontend/partials/blog.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/frontend/partials/contact.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/frontend/css/bootstrap-responsive.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/frontend/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fancybox.css" afterPath="$PROJECT_DIR$/frontend/css/fancybox.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/font-awesome-ie7.css" afterPath="$PROJECT_DIR$/frontend/css/font-awesome-ie7.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/font-awesome.css" afterPath="$PROJECT_DIR$/frontend/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont-0.eot" afterPath="$PROJECT_DIR$/frontend/css/fonts/BebasNeue-webfont-0.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont.eot" afterPath="$PROJECT_DIR$/frontend/css/fonts/BebasNeue-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont.svg" afterPath="$PROJECT_DIR$/frontend/css/fonts/BebasNeue-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont.ttf" afterPath="$PROJECT_DIR$/frontend/css/fonts/BebasNeue-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fonts/BebasNeue-webfont.woff" afterPath="$PROJECT_DIR$/frontend/css/fonts/BebasNeue-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/icons.css" afterPath="$PROJECT_DIR$/frontend/css/icons.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/parallax-slider.css" afterPath="$PROJECT_DIR$/frontend/css/parallax-slider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/social-icons.css" afterPath="$PROJECT_DIR$/frontend/css/social-icons.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/frontend/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/styleIE.css" afterPath="$PROJECT_DIR$/frontend/css/styleIE.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/styleIE9.css" afterPath="$PROJECT_DIR$/frontend/css/styleIE9.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font/fontawesome-webfont-0.eot" afterPath="$PROJECT_DIR$/frontend/font/fontawesome-webfont-0.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/frontend/font/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/frontend/font/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/frontend/font/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/frontend/font/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/icons.html" afterPath="$PROJECT_DIR$/frontend/partials/icons.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/icons_set2.html" afterPath="$PROJECT_DIR$/frontend/partials/icons_set2.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/ajax-loader.gif" afterPath="$PROJECT_DIR$/frontend/img/ajax-loader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/arrows.png" afterPath="$PROJECT_DIR$/frontend/img/arrows.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/car.jpg" afterPath="$PROJECT_DIR$/frontend/img/car.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fancybox_buttons.png" afterPath="$PROJECT_DIR$/frontend/img/fancybox_buttons.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fancybox_loading.gif" afterPath="$PROJECT_DIR$/frontend/img/fancybox_loading.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fancybox_sprite.png" afterPath="$PROJECT_DIR$/frontend/img/fancybox_sprite.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fbg.jpg" afterPath="$PROJECT_DIR$/frontend/img/fbg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/frontend/img/glyphicons-halflings-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/glyphicons-halflings.png" afterPath="$PROJECT_DIR$/frontend/img/glyphicons-halflings.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/grid_grey.jpg" afterPath="$PROJECT_DIR$/frontend/img/grid_grey.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/heaven.jpg" afterPath="$PROJECT_DIR$/frontend/img/heaven.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/glyphicons-mini-white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/glyphicons-mini-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/glyphicons-mini.png" afterPath="$PROJECT_DIR$/frontend/img/icons/glyphicons-mini.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/glyphicons-white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/glyphicons-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/glyphicons.png" afterPath="$PROJECT_DIR$/frontend/img/icons/glyphicons.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/list/grey/list_arrow.png" afterPath="$PROJECT_DIR$/frontend/img/icons/list/grey/list_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/list/grey/list_check.png" afterPath="$PROJECT_DIR$/frontend/img/icons/list/grey/list_check.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/list/grey/list_circle.png" afterPath="$PROJECT_DIR$/frontend/img/icons/list/grey/list_circle.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/list/grey/list_cross.png" afterPath="$PROJECT_DIR$/frontend/img/icons/list/grey/list_cross.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/list/grey/list_minus.png" afterPath="$PROJECT_DIR$/frontend/img/icons/list/grey/list_minus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/list/grey/list_plus.png" afterPath="$PROJECT_DIR$/frontend/img/icons/list/grey/list_plus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/list/grey/list_square.png" afterPath="$PROJECT_DIR$/frontend/img/icons/list/grey/list_square.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/list/grey/list_star.png" afterPath="$PROJECT_DIR$/frontend/img/icons/list/grey/list_star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/amazon.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/amazon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/behance.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/behance.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/blogger.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/blogger.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/deviantart.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/deviantart.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/dribbble.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/dribbble.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/dropbox.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/dropbox.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/evernote.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/evernote.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/facebook.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/facebook.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/forrst.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/forrst.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/github.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/github.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/googleplus.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/googleplus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/jolicloud.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/jolicloud.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/last-fm.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/last-fm.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/linkedin.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/linkedin.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/picasa.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/picasa.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/pintrest.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/pintrest.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/rss.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/rss.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/skype.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/skype.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/spotify.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/spotify.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/stumbleupon.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/stumbleupon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/tumblr.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/tumblr.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/twitter.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/twitter.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/vimeo.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/vimeo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/wordpress.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/wordpress.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/xing.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/xing.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/yahoo.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/yahoo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social/youtube.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social/youtube.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/aim.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/aim.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/apple.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/apple.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/behance.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/behance.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/blogger.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/blogger.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/cargo.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/cargo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/delicious.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/delicious.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/deviantart.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/deviantart.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/digg.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/digg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/dopplr.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/dopplr.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/dribbble.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/dribbble.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/ember.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/ember.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/evernote.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/evernote.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/facebook.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/facebook.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/flickr.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/flickr.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/forrst.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/forrst.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/github.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/github.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/google.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/google.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/googleplus.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/googleplus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/gowalla.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/gowalla.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/grooveshark.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/grooveshark.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/html5.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/html5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/icloud.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/icloud.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/lastfm.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/lastfm.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/linkedin.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/linkedin.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/metacafe.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/metacafe.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/mixx.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/mixx.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/myspace.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/myspace.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/netvibes.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/netvibes.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/newsvine.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/newsvine.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/orkut.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/orkut.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/paypal.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/paypal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/picasa.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/picasa.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/pinterest.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/pinterest.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/plurk.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/plurk.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/posterous.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/posterous.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/reddit.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/reddit.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/rss.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/rss.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/skype.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/skype.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/stumbleupon.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/stumbleupon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/technorati.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/technorati.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/tumblr.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/tumblr.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/twitter.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/twitter.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/vimeo.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/vimeo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/wordpress.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/wordpress.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/yahoo.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/yahoo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/yelp.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/yelp.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/youtube.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/youtube.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/zerply.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/zerply.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social2/zootool.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social2/zootool.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/amazon_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/amazon_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/amazon_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/amazon_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/apple_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/apple_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/apple_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/apple_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/delicious_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/delicious_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/delicious_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/delicious_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/deviantart_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/deviantart_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/deviantart_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/deviantart_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/digg_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/digg_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/digg_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/digg_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/dribbble_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/dribbble_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/dribbble_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/dribbble_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/facebook_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/facebook_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/facebook_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/facebook_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/flickr_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/flickr_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/flickr_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/flickr_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/html5_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/html5_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/html5_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/html5_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/lastfm_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/lastfm_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/lastfm_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/lastfm_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/linkedin_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/linkedin_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/linkedin_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/linkedin_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/myspace_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/myspace_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/myspace_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/myspace_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/paypal_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/paypal_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/paypal_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/paypal_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/rss_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/rss_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/rss_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/rss_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/skype_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/skype_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/skype_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/skype_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/stumbleupon_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/stumbleupon_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/tumblr_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/tumblr_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/tumblr_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/tumblr_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/twitter_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/twitter_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/twitter_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/twitter_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/vimeo_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/vimeo_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/vimeo_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/vimeo_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/youtube_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/youtube_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_big/youtube_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_big/youtube_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/amazon_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/amazon_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/amazon_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/amazon_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/apple_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/apple_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/apple_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/apple_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/delicious_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/delicious_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/delicious_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/delicious_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/deviantart_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/deviantart_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/deviantart_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/deviantart_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/digg_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/digg_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/digg_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/digg_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/dribbble_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/dribbble_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/dribbble_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/dribbble_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/facebook_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/facebook_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/facebook_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/facebook_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/flickr_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/flickr_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/flickr_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/flickr_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/html5_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/html5_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/html5_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/html5_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/lastfm_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/lastfm_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/lastfm_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/lastfm_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/linkedin_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/linkedin_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/linkedin_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/linkedin_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/myspace_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/myspace_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/myspace_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/myspace_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/paypal_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/paypal_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/paypal_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/paypal_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/rss_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/rss_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/rss_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/rss_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/skype_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/skype_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/skype_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/skype_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/stumbleupon_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/stumbleupon_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/tumblr_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/tumblr_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/tumblr_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/tumblr_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/twitter_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/twitter_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/twitter_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/twitter_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/vimeo_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/vimeo_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/vimeo_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/vimeo_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/youtube_grey.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/youtube_grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/social_small/youtube_white.png" afterPath="$PROJECT_DIR$/frontend/img/icons/social_small/youtube_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/icons/twitter.png" afterPath="$PROJECT_DIR$/frontend/img/icons/twitter.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="$PROJECT_DIR$/frontend/img/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logos/1.png" afterPath="$PROJECT_DIR$/frontend/img/logos/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logos/10.png" afterPath="$PROJECT_DIR$/frontend/img/logos/10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logos/2.png" afterPath="$PROJECT_DIR$/frontend/img/logos/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logos/3.png" afterPath="$PROJECT_DIR$/frontend/img/logos/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logos/6.png" afterPath="$PROJECT_DIR$/frontend/img/logos/6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logos/9.png" afterPath="$PROJECT_DIR$/frontend/img/logos/9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/mobile_app1.jpg" afterPath="$PROJECT_DIR$/frontend/img/mobile_app1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/overlay-icon-01.png" afterPath="$PROJECT_DIR$/frontend/img/overlay-icon-01.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/overlay-icon-02.png" afterPath="$PROJECT_DIR$/frontend/img/overlay-icon-02.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/parallax-slider/html5.png" afterPath="$PROJECT_DIR$/frontend/img/parallax-slider/html5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/parallax-slider/imac.png" afterPath="$PROJECT_DIR$/frontend/img/parallax-slider/imac.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/parallax-slider/ipad-mini.png" afterPath="$PROJECT_DIR$/frontend/img/parallax-slider/ipad-mini.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/parallax-slider/mapa.png" afterPath="$PROJECT_DIR$/frontend/img/parallax-slider/mapa.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/photo1.jpg" afterPath="$PROJECT_DIR$/frontend/img/photo1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/photo3.jpg" afterPath="$PROJECT_DIR$/frontend/img/photo3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/photo4.jpg" afterPath="$PROJECT_DIR$/frontend/img/photo4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/photo5.jpg" afterPath="$PROJECT_DIR$/frontend/img/photo5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/photo6.jpg" afterPath="$PROJECT_DIR$/frontend/img/photo6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/photo8.jpg" afterPath="$PROJECT_DIR$/frontend/img/photo8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/poland.png" afterPath="$PROJECT_DIR$/frontend/img/poland.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/scroll-top-top.png" afterPath="$PROJECT_DIR$/frontend/img/scroll-top-top.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/search-ico-alt.png" afterPath="$PROJECT_DIR$/frontend/img/search-ico-alt.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/slider-control-left.png" afterPath="$PROJECT_DIR$/frontend/img/slider-control-left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/slider-control-right.png" afterPath="$PROJECT_DIR$/frontend/img/slider-control-right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/slider/slider1.jpg" afterPath="$PROJECT_DIR$/frontend/img/slider/slider1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/slider/slider2.jpg" afterPath="$PROJECT_DIR$/frontend/img/slider/slider2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/slider/slider3.jpg" afterPath="$PROJECT_DIR$/frontend/img/slider/slider3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/tbg.png" afterPath="$PROJECT_DIR$/frontend/img/tbg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/team_member.jpg" afterPath="$PROJECT_DIR$/frontend/img/team_member.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/testimonials-bg.png" afterPath="$PROJECT_DIR$/frontend/img/testimonials-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/testimonials-left-01.png" afterPath="$PROJECT_DIR$/frontend/img/testimonials-left-01.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/testimonials-left-02.png" afterPath="$PROJECT_DIR$/frontend/img/testimonials-left-02.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/testimonials-right-01.png" afterPath="$PROJECT_DIR$/frontend/img/testimonials-right-01.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/testimonials-right-02.png" afterPath="$PROJECT_DIR$/frontend/img/testimonials-right-02.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/web_app1.jpg" afterPath="$PROJECT_DIR$/frontend/img/web_app1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/frontend/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="$PROJECT_DIR$/frontend/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/carousel.js" afterPath="$PROJECT_DIR$/frontend/js/carousel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/frontend/js/custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/excanvas.js" afterPath="$PROJECT_DIR$/frontend/js/excanvas.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/fancybox.js" afterPath="$PROJECT_DIR$/frontend/js/fancybox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/flexslider.js" afterPath="$PROJECT_DIR$/frontend/js/flexslider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/isotope.js" afterPath="$PROJECT_DIR$/frontend/js/isotope.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery-1.8.2.js" afterPath="$PROJECT_DIR$/frontend/js/jquery-1.8.2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.cslider.js" afterPath="$PROJECT_DIR$/frontend/js/jquery.cslider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.flot.min.js" afterPath="$PROJECT_DIR$/frontend/js/jquery.flot.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.flot.pie.min.js" afterPath="$PROJECT_DIR$/frontend/js/jquery.flot.pie.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.flot.resize.min.js" afterPath="$PROJECT_DIR$/frontend/js/jquery.flot.resize.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.flot.stack.js" afterPath="$PROJECT_DIR$/frontend/js/jquery.flot.stack.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.gmap.min.js" afterPath="$PROJECT_DIR$/frontend/js/jquery.gmap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.imagesloaded.js" afterPath="$PROJECT_DIR$/frontend/js/jquery.imagesloaded.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.placeholder.min.js" afterPath="$PROJECT_DIR$/frontend/js/jquery.placeholder.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/slider.js" afterPath="$PROJECT_DIR$/frontend/js/slider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/twitter.js" afterPath="$PROJECT_DIR$/frontend/js/twitter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/list-styles.html" afterPath="$PROJECT_DIR$/frontend/partials/list-styles.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio3.html" afterPath="$PROJECT_DIR$/frontend/partials/portfolio3.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio4.html" afterPath="$PROJECT_DIR$/frontend/partials/portfolio4.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/post.html" afterPath="$PROJECT_DIR$/frontend/partials/post.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pricing.html" afterPath="$PROJECT_DIR$/frontend/partials/pricing.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project.html" afterPath="$PROJECT_DIR$/frontend/partials/project.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/shortcodes.html" afterPath="$PROJECT_DIR$/frontend/partials/shortcodes.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/social-icons.html" afterPath="$PROJECT_DIR$/frontend/partials/social-icons.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/typography.html" afterPath="$PROJECT_DIR$/frontend/partials/typography.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Shane.iws" />
@@ -41,91 +300,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="project.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="7980">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="16" selection-start="1998" selection-end="2182" vertical-scroll-proportion="-13.75" vertical-offset="585" max-vertical-offset="8370">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/frontend/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="185" column="28" selection-start="6357" selection-end="6357" vertical-scroll-proportion="0.13257575" vertical-offset="2670" max-vertical-offset="9765">
+            <state line="140" column="28" selection-start="4987" selection-end="4987" vertical-scroll-proportion="5.3846154" vertical-offset="0" max-vertical-offset="9870">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shortcodes.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shortcodes.html">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="8985">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="social-icons.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/social-icons.html">
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="9300">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="typography.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/typography.html">
+      <file leaf-file-name="work.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/partials/work.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="7395">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icons_set2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/icons_set2.html">
+      <file leaf-file-name="numbers.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/partials/numbers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="10035">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list-styles.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/list-styles.html">
+      <file leaf-file-name="expansion.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/partials/expansion.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="6915">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portfolio3.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="6555">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portfolio4.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="6555">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
@@ -159,16 +382,22 @@
         <option value="$PROJECT_DIR$/social-icons.html" />
         <option value="$PROJECT_DIR$/typography.html" />
         <option value="$PROJECT_DIR$/blog.html" />
+        <option value="$PROJECT_DIR$/overview.html" />
+        <option value="$PROJECT_DIR$/expansion.html" />
+        <option value="$PROJECT_DIR$/numbers.html" />
+        <option value="$PROJECT_DIR$/work.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/frontend/index.html" />
+        <option value="$PROJECT_DIR$/backend/urls.py" />
+        <option value="$PROJECT_DIR$/frontend/index2.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
     <option name="y" value="22" />
-    <option name="width" value="1920" />
-    <option name="height" value="1178" />
+    <option name="width" value="1280" />
+    <option name="height" value="730" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -177,7 +406,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -196,7 +425,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -225,26 +453,201 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shane" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shane" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings />
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend" />
+      <recent name="$PROJECT_DIR$/frontend/partials" />
+      <recent name="$PROJECT_DIR$/img/parallax-slider" />
+      <recent name="$PROJECT_DIR$/img/slider" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Shane" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Shane" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Shane" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Shane" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Shane" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Shane" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Shane" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
@@ -283,7 +686,11 @@
       <created>1402963340636</created>
       <updated>1402963340636</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added logo, changed menu options and slider content.">
+      <created>1403198506454</created>
+      <updated>1403198506454</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -307,16 +714,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="22" width="1920" height="1178" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1280" height="730" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18968692" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28683385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2172524" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1773163" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2786753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -324,6 +730,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -344,309 +751,276 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="added logo, changed menu options and slider content." />
+    <option name="LAST_COMMIT_MESSAGE" value="added logo, changed menu options and slider content." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pricing.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/shortcodes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9195">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="8985" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/social-icons.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="7980">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="9300" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/typography.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="8370">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="7395" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shortcodes.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/icons_set2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="8985">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="10035" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/social-icons.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/list-styles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="9300">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="6915" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typography.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/portfolio3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="7395">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="6555" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/icons_set2.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/portfolio4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="10035">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="6555" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list-styles.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/pricing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="6915">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="9195" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio3.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="6555">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="7980" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio4.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="6555">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="8370" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pricing.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/shortcodes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="9195">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="8985" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/social-icons.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="7980">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="9300" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/typography.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="960" max-vertical-offset="8370">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="7395" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shortcodes.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/icons_set2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="8985">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10035" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/social-icons.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/list-styles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="9300">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="6915" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typography.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/portfolio3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="7395">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="6555" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/icons_set2.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/portfolio4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10035">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="6555" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list-styles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="6915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="6555">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="6555">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/frontend/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="68" selection-start="2107" selection-end="2107" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="9945" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/frontend/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="225" column="20" selection-start="4556" selection-end="4556" vertical-scroll-proportion="0.0" vertical-offset="2895" max-vertical-offset="43035" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8370">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8370" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/post.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="9645" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpressBlog/wp-activate.php">
+    <entry file="file://$PROJECT_DIR$/frontend/wordpressBlog/wp-activate.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2070" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/frontend/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="4" selection-start="1629" selection-end="1629" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9945" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8370">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8370" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/post.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="9645" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpressBlog/wp-activate.php">
+    <entry file="file://$PROJECT_DIR$/frontend/wordpressBlog/wp-activate.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2070" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpressBlog/wp-activate.php">
+    <entry file="file://$PROJECT_DIR$/frontend/wordpressBlog/wp-activate.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2070" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/frontend/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="225" column="20" selection-start="4556" selection-end="4556" vertical-scroll-proportion="0.5707491" vertical-offset="2895" max-vertical-offset="43035" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpressBlog/index.php">
+    <entry file="file://$PROJECT_DIR$/frontend/wordpressBlog/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="854" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="20" selection-start="2059" selection-end="2133" vertical-scroll-proportion="-20.0" vertical-offset="480" max-vertical-offset="9150" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="94" selection-start="2142" selection-end="2142" vertical-scroll-proportion="-10.625" vertical-offset="705" max-vertical-offset="7365" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/icons.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/icons.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="94" selection-start="2142" selection-end="2142" vertical-scroll-proportion="-13.125" vertical-offset="645" max-vertical-offset="13575" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/icons_set2.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/icons_set2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="10035">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="10035" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list-styles.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/list-styles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="6915">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="6915" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio3.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/portfolio3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="6555">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="6555" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio4.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/portfolio4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="6555">
-          <folding />
-        </state>
+        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="6555" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/post.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="94" selection-start="2142" selection-end="2142" vertical-scroll-proportion="-10.0" vertical-offset="720" max-vertical-offset="9645" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pricing.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/pricing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="9195">
+        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="9195" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/partials/project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="91" selection-start="2165" selection-end="2165" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="7980" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/partials/social-icons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="91" selection-start="2165" selection-end="2165" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="9300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/partials/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="16" selection-start="2024" selection-end="2214" vertical-scroll-proportion="0.0" vertical-offset="915" max-vertical-offset="8370" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/partials/typography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="91" selection-start="2165" selection-end="2165" vertical-scroll-proportion="-0.0" vertical-offset="960" max-vertical-offset="7395" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/partials/overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="852" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/partials/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="852">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="7980">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="852">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shortcodes.html">
+    <entry file="file://$PROJECT_DIR$/backend/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="8985">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="852">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/social-icons.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/shortcodes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="9300">
+        <state line="64" column="91" selection-start="2165" selection-end="2165" vertical-scroll-proportion="1.1455847" vertical-offset="0" max-vertical-offset="8985" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/partials/expansion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="852">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/typography.html">
+    <entry file="file://$PROJECT_DIR$/frontend/partials/numbers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="85" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="7395">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="852">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
+    <entry file="file://$PROJECT_DIR$/frontend/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="16" selection-start="1998" selection-end="2182" vertical-scroll-proportion="-13.75" vertical-offset="585" max-vertical-offset="8370">
-          <folding />
-        </state>
+        <state line="602" column="43" selection-start="19684" selection-end="19684" vertical-scroll-proportion="0.08472554" vertical-offset="8959" max-vertical-offset="9870" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/frontend/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="28" selection-start="6357" selection-end="6357" vertical-scroll-proportion="0.13257575" vertical-offset="2670" max-vertical-offset="9765">
+        <state line="140" column="28" selection-start="4987" selection-end="4987" vertical-scroll-proportion="5.3846154" vertical-offset="0" max-vertical-offset="9870">
           <folding />
         </state>
       </provider>
